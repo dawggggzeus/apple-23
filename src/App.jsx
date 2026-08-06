@@ -29,7 +29,7 @@ const LETTER_LINES = [
   `You were and is my emotional support, though I am very reserved and I don't show my emotions easily but you always knew how to reach me and make me smile and honestly you made this rude guy somewhat soft (can't disagree). From late night coding sessions in colab or eating together in BREAK or sitting at open theatre, all of these moments I cherish and remember. I know I haven't told you enough times but I want to say it again and again thank you for what all you have done and I'm so grateful to have you in my life.`,
   `I pray to LORD SHIVA🔱 you achieve every happiness in your life you wish for. I know you are stronger than all the hurdles life throw at you and would fight 'em to achieve whatever you want in your life. I already know you are a smartass and would chase every dream of yours.`,
   `Happy Birthday sweetheart. The world is lucky to have you in it and you are lucky to have me hihihi (POOKIE NI HAI MERI?).`,
-  `more love and wishes from my side 💕`,
+  `more love and wishes from my side 💕 to a pure soul`,
   `Can't end without a pickup line yk :)`,
   `Nee malakal pole aanu... doore ninn kaanumbol thanne bhangi undayirunnu, pakse aduthekk vannappol ninnil ninn kann edukkaan pattathaayi.❤️`,
 ];
