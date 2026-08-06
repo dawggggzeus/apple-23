@@ -30,7 +30,7 @@ const LETTER_LINES = [
   `I pray to LORD SHIVA🔱 you achieve every happiness in your life you wish for. I know you are stronger than all the hurdles life throw at you and would fight 'em to achieve whatever you want in your life. I already know you are a smartass and would chase every dream of yours.`,
   `Happy Birthday sweetheart. The world is lucky to have you in it and you are lucky to have me hihihi (POOKIE NI HAI MERI?).`,
   `more love and wishes from my side 💕`,
-  `Can't end without a pickup line yk ;)`,
+  `Can't end without a pickup line yk :)`,
   `Nee malakal pole aanu... doore ninn kaanumbol thanne bhangi undayirunnu, pakse aduthekk vannappol ninnil ninn kann edukkaan pattathaayi.❤️`,
 ];
 
